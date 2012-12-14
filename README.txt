@@ -13,4 +13,8 @@ To execute the Program on a subset of MNIST dataset, you can open an Octave Shel
 
 The project can also be run in a Network mode where ImageReceiver.java class runs a Server on port 4444 and receives a image of size 28 x 28 from the Android App.
 
-One can then run "predictImage.m" script to perform digit recognition on received image ("RECEIVED.png".
+One can then run "predictImage.m" script to perform digit recognition on received image ("RECEIVED.png").
+
+A working of this Program is shown in this video:
+
+http://www.youtube.com/watch?v=rLfrC3lyHt8
