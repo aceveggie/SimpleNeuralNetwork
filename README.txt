@@ -1,6 +1,7 @@
-DigitData.mat and DigitLabels.mat Files contain Handwritten Digit data collected on a Android Device.
-
 This project contains a 2 Hidden Layer Neural Network of Configuration 768 x 100 x 50 x 10 and 768 x 200 x 100 x 10 (inputlayersize x hiddenlayersize1 x hiddenlayersize2 x outputlabels)
+
+DigitData.mat and DigitLabels.mat Files contain Handwritten Digit data collected on a Android Device.
+Images contained in these mat files are originally of 28x28 reshaped to of 1 x (28*28).
 
 To execute the Program, you may being with opening octave shell and running
 
